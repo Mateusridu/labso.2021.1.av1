@@ -1,0 +1,16 @@
+av1-2021.txt  av1-mateus.txt  instrucoes.txt  mateus1.txt  mateus2.txt  mateus3.txt  README.md  ultimocomando.txt
+
+arquivos-mateus:
+arquivos-mateus  av1-mateus.txt  instrucoes.txt  log  mateus1.txt  mateus2.txt  mateus3.txt  pasta1  pasta2  pasta3  README.md  ultimocomando.txt
+
+log:
+access.log  access.log2  access.log3  grepdata.txt
+
+pasta1:
+1.txt
+
+pasta2:
+2.txt
+
+pasta3:
+pasta31
